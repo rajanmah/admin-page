@@ -1,97 +1,81 @@
 .nav {
-    width:200px;
-height:100%;
+    width: 200px;
+    height: 100%;
     background-color: rgb(246, 244, 243);
 }
 
 .panel0 {
-    display:flex;
-    
+    display: flex;
 }
 
 
 .panel1 {
-    display:flex;
+    display: flex;
 }
-.admin, .recent, .progress-report {
-    background-color:green;
-    /* border:1px solid red; */
-    width:300px;
-    height:300px;
-    
+
+.admin,
+.recent,
+.progress-report {
+    background-color: green;
+    width: 300px;
+    height: 300px;
 }
+
 .panel2 {
-    display:flex;
+    display: flex;
 }
 
 .row {
-    /* border:1px solid red; */
-    margin:30px;
+    margin: 30px;
     background-color: rgb(227, 210, 210);
-    text-align:center;
-    
-    
+    text-align: center;
 }
-#women{
-        display: block;
-        margin-left: auto;
-        margin-right: auto;
-        height: 200px;
-        width: 200px;
-        border-radius: 50%;
-        padding-bottom: 10px;
-    }
-   
+
+#women {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    padding-bottom: 10px;
+}
+
 #img1 {
-    width:15px;
-    height:15px;
-margin-right:5px;
-margin-left:5px;
+    width: 15px;
+    height: 15px;
+    margin-right: 5px;
+    margin-left: 5px;
+}
 
+#img2 {
+    width: 40px;
+    height: 40px;
+    margin-right: 5px;
+    margin-left: 5px;
 }
-#img2{
-    width:40px;
-    height:40px;
-margin-right:5px;
-margin-left:5px;
- 
-}
-/* .icon1 {
-    width:15px;
-    height:15px;
-} */
+
 .col-sm-4 {
-    /* border:1px solid green; */
-    width:150px;
-    height:400px;
-    /* margin:5px; */
-    font-size:12px;
-    padding-top:10px
-        /* text-align: center; */
+    width: 150px;
+    height: 400px;
+    font-size: 12px;
+    padding-top: 10px
 }
+
 .col-sm-3 {
-    /* border:1px solid green; */
-    width:150px;
-    height:100px;
-    /* margin:3px; */
-    padding-top:5px;
+    width: 150px;
+    height: 100px;
+    padding-top: 5px;
 }
+
 .col-sm-12 {
-    /* border:1px solid green; */
-    width:150px;
-    height:400px;
-    padding-top:5px;
-
-
+    width: 150px;
+    height: 400px;
+    padding-top: 5px;
 }
-/* .progresstracker {
-    line-height: 4em;
-    margin:2vh;
-} */
+
 
 #bar {
-    width:600px;
-    height:300px;
+    width: 600px;
+    height: 300px;
 }
-
-
